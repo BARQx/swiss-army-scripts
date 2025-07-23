@@ -9,7 +9,7 @@ Think of this as a Swiss Army knife still under construction — right now, it�
 - `kmn_to_xkb.py` – Converts Keyman `.kmn` keyboard layouts to XKB `symbols` format.
 - `evdev_generator.py` – Generates `evdev.xml` entries from Keyman layout metadata.
 
-_More tools and categories coming soon._
+_This collection may grow over time as I build more utilities._
 
 ## 📜 License
 
