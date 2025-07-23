@@ -124,7 +124,7 @@ def save_to_csv(results, filename):
 def main():
     kmn_file = "keyboard.kmn"
     xkb_file = "keyboard.xkb"
-    output_csv = "keyboard_comparison.csv"
+    output_csv = "kmn_xkb_compare.csv"
 
     with open(kmn_file, 'r', encoding='utf-8') as f:
         kmn_text = f.read()
